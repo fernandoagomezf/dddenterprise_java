@@ -1,4 +1,4 @@
-package com.vantagepoint.domain.core;
+package com.vantagepoint.domain.common;
 
 import java.lang.IllegalArgumentException;
 import java.lang.Object;
